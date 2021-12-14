@@ -1,3 +1,7 @@
+# Two guessing games: 
+# 01. The computes computes a number that you have to guess
+# 02. The computer has to guess your computed number
+    
 import random
 
 def guess(x):
