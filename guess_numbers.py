@@ -17,7 +17,7 @@ def guess(x):
     print('You have guessed the number')
 
 
-guess(20)
+#guess(20)
 
 def computer_guess(x):
     low = 1
