@@ -6,7 +6,7 @@
    
    <br><br>
 2. Two guessing games: <br>
-    a. The computes computes a number that you have to guess <br>
+    a. The computer computes a number that you have to guess <br>
     b. The computer has to guess your computed number
 
 
